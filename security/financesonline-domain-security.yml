@@ -1,0 +1,25 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: financesonline.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 17 06:09:18 2026 GMT
+  hsts: null
+- host: reviews.financesonline.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 17 06:09:18 2026 GMT
+  hsts: false
+- host: comparisons.financesonline.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 17 06:09:18 2026 GMT
+  hsts: false
+domains:
+- domain: financesonline.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: false
