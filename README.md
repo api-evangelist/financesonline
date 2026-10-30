@@ -64,22 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FinancesOnline (https://financesonline.com/) is a B2B software review platform covering financial and business software. Founded in 2014 and headquartered in Boston, MA, it is one of the fastest-growing independent software review platforms, helping business owners identify the best SaaS and financial software to fit their needs while giving software vendors a channel to reach potential clients. The platform publishes expert and user-generated reviews, side-by-side comparisons, pricing details, and research reports across hundreds of software categories including accounting, CRM, ERP, HR, project management, and other business software verticals.
+Read detailed online reviews of B2B & SaaS solutions prepared by industry experts. Compare popular tools and easily find a perfect software that will let your business grow. Write your own reviews and share your experience with a constantly growing community of SaaS users.
 
-FinancesOnline is free to use for business professionals. It sustains the free service through partnerships with software vendors who pay for increased visibility, traffic, and sales opportunities. Premium vendors receive additional benefits such as awards, in-depth editorial content, and enhanced positioning in search results.
+**Areas:** B2B · Financial Software · Software Reviews
 
-## No Public API
+## FinancesOnline on APIs.io
 
-FinancesOnline does not currently offer a public API. Access to its software review data, comparison tools, and directory listings is available exclusively through its web interfaces at financesonline.com and reviews.financesonline.com.
+Everything profiled for FinancesOnline is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/financesonline/](https://apis.io/providers/financesonline/)** — or go straight to one of the APIs or properties below.
 
-## Links
+### Published properties
 
-- **Website:** https://financesonline.com/
-- **Software Reviews:** https://reviews.financesonline.com/
-- **Software Comparisons:** https://comparisons.financesonline.com/
-- **Contact:** https://financesonline.com/contact-us
-- **Terms of Use:** https://financesonline.com/terms-of-use/
-- **Privacy Policy:** https://financesonline.com/privacy-policy
-- **X (Twitter):** https://x.com/financesonline
-- **LinkedIn:** https://www.linkedin.com/company/financesonline-com
-- **Facebook:** https://www.facebook.com/financesonline/
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Financesonline Domain Security](https://apis.io/security/financesonline/financesonline-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://financesonline.com/)
+- [Blog](https://financesonline.com/feed/)
+- [Terms of service](https://financesonline.com/terms-of-use/)
+- [Privacy policy](https://financesonline.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 9.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 33.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/financesonline/](https://apis.io/providers/financesonline/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FinancesOnline: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/financesonline/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
